@@ -1,0 +1,1 @@
+Analysis of device stability based on perovskite composition following the methods from Zhang, Z., Wang, H., Jacobsson, T.J. et al. Big data driven perovskite solar cell stability analysis. Nat Commun 13, 7639 (2022). https://doi.org/10.1038/s41467-022-35400-4
